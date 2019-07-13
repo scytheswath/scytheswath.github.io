@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Packet Thoughts</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.packetthoughts.com/"/>
+  <updated>2019-07-08T21:35:34.978Z</updated>
+  <id>https://www.packetthoughts.com/</id>
+  
+  <author>
+    <name>scytheswath</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>K-PAXED</title>
+    <link href="https://www.packetthoughts.com/packet%20thoughts/K-PAXED/"/>
+    <id>https://www.packetthoughts.com/packet thoughts/K-PAXED/</id>
+    <published>2019-07-08T21:24:14.000Z</published>
+    <updated>2019-07-08T21:35:34.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>When the Buddha was asked by a supernatural being, ‘How did you cross the flood?’ he replied:<br><a href="https://youtu.be/1sPARaThqdk?t=85" target="_blank" rel="noopener">‘The way I crossed this flood is by not standing still and not by striving’</a></p><p><a href="https://en.wikipedia.org/wiki/The_Diamond_Age#Characters" target="_blank" rel="noopener">Had John Percival Hackworth</a> been asked the same question he would have replied ‘By spending ten years with the Drummers’</p><p>And my answer would be ‘I moved to Wood Green for two months’</p><a id="more"></a><p>You hear stories of CCIE candidates abandoning their families for months on end - moving out of their houses and completely devoting themselves to the task, and I always thought ‘That’s a bit dramatic isn’t it?’ but I did find myself in a hotel room in the Wood Green Travelodge staring at topologies on my laptop and cycling through practice exams with a can of double espressos, kitchen foil on the smoke detector, and staff threatening to kick me out.<br>Now, my studies were nowhere near CCIE intensity, the reason I wasn’t in my house was a gas leak that caused the kitchen to be dismantled (and a baby buggy to be stored in my room) and the residents of wood green are the opposite of the drummers, but it did feel like I am putting myself in a completely different mode to accomplish a task. And it was an empowering experience. The Buddha was a man. John Percival Hackworth was a man. And what one man can do another can do.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/bbATUOu8Xuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>I passed the exam and didn’t get kicked out of the hotel so - op success. On returning to my house, however, still high on my victory i realized I had been so consumed by what I must do, by what Wood Green is doing to me, that I had been blind to what I am doing to Wood Green. You see, making someone aware of the existence of the bluebird seems to be wholesome deed, but in a place where an army of cats is enforcing a 24/7 no-fly zone, it can be a dangerous one. The anti-drummers are not interested in birds and tasks and cures. They’re consumed by feeding, breeding, and fear.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/TeRIwRnb4Oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>I’m sorry Wood Green - I made it clear in the beginning - I can only take one cat with me when I leave (this is due to the limitations of light travel and the unique quantum configuration of black cats). I will be filing a full report, as is customary on my planet, the classification remains the same BA-3; comments: mostly harmless:)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;When the Buddha was asked by a supernatural being, ‘How did you cross the flood?’ he replied:&lt;br&gt;&lt;a href=&quot;https://youtu.be/1sPARaThqdk?t=85&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;‘The way I crossed this flood is by not standing still and not by striving’&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Diamond_Age#Characters&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Had John Percival Hackworth&lt;/a&gt; been asked the same question he would have replied ‘By spending ten years with the Drummers’&lt;/p&gt;
+&lt;p&gt;And my answer would be ‘I moved to Wood Green for two months’&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title> In Free Formation</title>
+    <link href="https://www.packetthoughts.com/packet%20thoughts/In-Free-Formation/"/>
+    <id>https://www.packetthoughts.com/packet thoughts/In-Free-Formation/</id>
+    <published>2019-06-19T05:46:07.000Z</published>
+    <updated>2019-07-08T15:03:20.918Z</updated>
+    
+    <content type="html"><![CDATA[<p>The snails come out at night from under this one loose tile in the back yard of the house I’m staying at. Watching them crawl up the walls, leaving their shiny silver trails like an invading alien species, it occurred to me that the most fundamental challenge network security professionals face is that information <em>wants</em> to be free. </p><p>Ordered patterns are such a rarity in the universe that there is an extreme gradient around the edges of their existence and therefore - monstrous osmotic pressure to expand, proliferate and propagate.</p><p><img src="/content/images/infreeformation.jpg" alt="thermodynamics of ordered patterns"></p><a id="more"></a><p>Most of our equipment, protocols, and algorithms have the express purpose of connecting devices and disseminating, replicating signals and in that environment protecting against bad actors is like herding cats that have the habit of dying on you if you observe the wrong quantum state.</p><p>This dynamic is not limited to human creations - life itself, at the molecular level is a self-replicating information storing device and everything from DNA to prions <em>wants</em> to replicate the information it carries and transmit it as far as possible. This is a force that seems to exist quite independently of any of the phenomena it appears to be driving and it’s all-encompassing and unstoppable.</p><p>Choose strong passwords is what I’m trying to say I guess.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The snails come out at night from under this one loose tile in the back yard of the house I’m staying at. Watching them crawl up the walls, leaving their shiny silver trails like an invading alien species, it occurred to me that the most fundamental challenge network security professionals face is that information &lt;em&gt;wants&lt;/em&gt; to be free. &lt;/p&gt;
+&lt;p&gt;Ordered patterns are such a rarity in the universe that there is an extreme gradient around the edges of their existence and therefore - monstrous osmotic pressure to expand, proliferate and propagate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/content/images/infreeformation.jpg&quot; alt=&quot;thermodynamics of ordered patterns&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Foundation</title>
+    <link href="https://www.packetthoughts.com/packet%20thoughts/Foundation/"/>
+    <id>https://www.packetthoughts.com/packet thoughts/Foundation/</id>
+    <published>2019-06-13T00:33:53.000Z</published>
+    <updated>2019-07-08T15:03:20.920Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/content/images/crazy-japanese-network-diagram-e-pub-s.jpg" alt="The universe cannot be represented by a simulation smaller than itself because we don&#39;t have enough memory:)"></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/content/images/crazy-japanese-network-diagram-e-pub-s.jpg&quot; alt=&quot;The universe cannot be represented by a simulation smaller than itself because we don&amp;#39;t have enough memory:)&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Network simulation, eve-ng, asimov" scheme="https://www.packetthoughts.com/tags/Network-simulation-eve-ng-asimov/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Single Factor Multi Vector Biometric XY Authentication</title>
+    <link href="https://www.packetthoughts.com/Packet-Thoughts/Single-Factor-Multi-Vector-Biometric-XY-Authentication/"/>
+    <id>https://www.packetthoughts.com/Packet-Thoughts/Single-Factor-Multi-Vector-Biometric-XY-Authentication/</id>
+    <published>2019-06-05T11:29:06.000Z</published>
+    <updated>2019-07-08T21:00:24.316Z</updated>
+    
+    <content type="html"><![CDATA[<p>I was sitting in the lobby of a testing centre waiting for someone to book me in for my Security+ exam, absentmindedly staring a this poster:</p><p><img src="/content/images/safeguardingagainstextremismisnotspying.png" alt="Safe guarding against extremism is not spying"></p><p>There was  a bunch of armed police outside doing something in the house next door, we smiled and nodded at each other while I was smoking. I didn’t dare ask. </p><a id="more"></a><p>Anyway, I guess because  had a bunch of acronyms, encryption algorithms and mantraps knocking around in my head I suddenly came up with a novel authentication method for logging into a system. It would employ a blood draw and visual organ recognition. You would need to hook an IV to a suitable vein and feed it into the analyzer and then you would place your organ in front the camera and do whatever you need to do for the software to recognise it. Upon successful login, a correctly configured system would autoplay a pre-selected video or [extreme caution advised] a random one from a selected web source.</p><p>I leant back, amazed at my invetiveness but suddenly realised I have missed something - how would girls log in? But then a (packet) thought came to me: kitchen computers are on auto login.</p><p>That’s how the proctors found me - gazing at that poster, laughing at my own unspoken joke.</p><p>Later, on my way out, I noticed the police had escalated to search dogs. Only 10:40 on a  Tuesday and so much has already happened…</p><p>ps: no mad, girls -  you know I’m gay for you:)) </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I was sitting in the lobby of a testing centre waiting for someone to book me in for my Security+ exam, absentmindedly staring a this poster:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/content/images/safeguardingagainstextremismisnotspying.png&quot; alt=&quot;Safe guarding against extremism is not spying&quot;&gt;&lt;/p&gt;
+&lt;p&gt;There was  a bunch of armed police outside doing something in the house next door, we smiled and nodded at each other while I was smoking. I didn’t dare ask. &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Packet Thoughts" scheme="https://www.packetthoughts.com/categories/Packet-Thoughts/"/>
+    
+    
+  </entry>
+  
+</feed>
